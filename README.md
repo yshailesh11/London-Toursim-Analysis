@@ -16,7 +16,6 @@
     <p>
         Also built a story for better understanding of the trend patterns of the International tourists in London by using some more charts.
     </p>
-    <br>
     <h2>Data Source:</h2>
     <p>
         The data has been collected by <a href="https://www.ons.gov.uk/">Office for National Statistics</a> for the duration of 2002-2020 and is available on the website of <a href="https://data.london.gov.uk/">London Datastore.</a>
@@ -25,7 +24,6 @@
         Link to Dataset: <a href="https://data.london.gov.uk/dataset/number-international-visitors-london">data.london.gov.uk/dataset/number-international-visitors-london</a>
     </p>
     </ul>
-    <br>
     <h2>Instructions:</h2>
     <ul>
         <li>CLone this repository.</li>
