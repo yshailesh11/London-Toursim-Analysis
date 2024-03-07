@@ -33,7 +33,7 @@
     </ul>
     <br>
     <p>
-        <b>Dashboard is also available at Tableau Public at: </b> <a href="https://public.tableau.com/views/London_Tourism_Analysis/KPIDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link">public.tableau.com/views/London_Tourism_Analysis/KPIDashboard</a>
+        <b>Dashboard is also available at Tableau Public: </b> <a href="https://public.tableau.com/views/London_Tourism_Analysis/KPIDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link">public.tableau.com/views/London_Tourism_Analysis/KPIDashboard</a>
     </p>
 </body>
 
